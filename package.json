@@ -1,0 +1,15 @@
+{
+  "name": "backend_app3",
+  "version": "1.0.0",
+  "description": "this is backend_app3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemo src/index.js"
+  },
+  "author": "Sidhdharth Lakum",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
